@@ -13,7 +13,7 @@ This project includes a Web Manifest as a mobile-first application to let usersâ
 * [License](#license)
 
 ## Usage 
-Visit the deployed site on the heroku app: https://best-pwa-budget-tracker.herokuapp.com/
+Visit the deployed site on the heroku app: https://best-pwa-budget-tracker.herokuapp.com/ (currently under construction)
 
 ## Packages
 
